@@ -10,7 +10,7 @@ We can get an idea of the goal and ethos behind Stacks by looking at [how Satosh
 
 > "...to be a completely separate network and separate block chain, yet share CPU power with Bitcoin...all networks in the world would share combined CPU power, increasing the total strength."
 
-This is major theme in the design decisions for Stacks. A bit of a contradiction in the Bitcoin world, the Stacks network is a Bitcoin L2, but it does have its own token.
+This is major theme in the design decisions for Stacks. A bit of a contradiction in the Bitcoin world, the Stacks network is a Bitcoin Layer 2 (L2), but it does have its own token.
 
 This is an intentional and critical design decision primarily for the purpose of maintaining decentralization, rather than needing to rely on a federation.
 
